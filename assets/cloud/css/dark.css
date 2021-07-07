@@ -1,0 +1,99 @@
+i{
+	color: white!important;
+}
+
+a{
+	color: white!important;
+}
+
+a:text{
+	color: white!important;
+}
+
+footer{
+	background-color: black!important;
+}
+
+body > nav{
+	background-color: #000000!important;
+}
+
+#main{
+	background: #303030!important;
+}
+
+#main > div{
+	background: #212121!important;
+	color: white!important;
+}
+
+.container > ul{
+	background: #212121!important;
+}
+
+.card{
+	background: #424242!important;
+}
+
+#sidenav{
+	background-color: rgb(48, 48, 48)!important;
+}
+
+.collection a.collection-item:not(.active):hover {
+    background-color: #585858!important;
+}
+
+.collection a.collection-item {
+    background: #424242!important;
+    color: white!important;
+}
+
+.collection .collection-item {
+    background-color: #424242!important;
+}
+
+input{
+	color: white!important;
+}
+
+.modal{
+	background-color:#424242!important;
+	color: white;
+}
+
+.modal-footer{
+	background-color: #424242!important;
+}
+
+.btn-flat{
+	color: white!important;
+}
+
+[type="radio"]:not(:checked) + span:before, [type="radio"]:not(:checked) + span:after {
+    border: 2px solid #b9b9b9!important;
+}
+
+[type="radio"]:disabled:not(:checked) + span:before {
+    border-color: rgba(0, 0, 0, 0.42)!important;
+}
+
+span {
+	color: white!important;
+}
+
+.title{
+	color: #bce7f7!important;
+}
+
+.ri_gh_t{
+	background: #333!important;
+	color: white!important;
+}
+
+.ri_gh_t li:before{
+	background: gray!important;
+}
+
+.header_nav{
+	background-color:black!important
+}
